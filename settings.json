@@ -1,0 +1,97 @@
+{
+    "_disclaimerShowed": true,
+    "showDebugInfo": false,
+    "token": "",
+    "statusAnimProfiles": {
+        "camera": {
+            "texts": [
+                "\ud83d\ude10\ud83d\udcf7",
+                "\ud83d\ude10\ud83d\udcf8"
+            ],
+            "emoji": null
+        }
+    },
+    "richPresenceProfiles": {
+        "test": {
+            "clientID": "902867627951661106",
+            "details": "Project",
+            "state": "Testing RPC feature",
+            "startTimestamp": "$now",
+            "endTimestamp": null,
+            "largeImage": {
+                "imgName": "img1",
+                "text": "Test large image"
+            },
+            "smallImage": {
+                "imgName": "img2",
+                "text": "Test small image"
+            },
+            "animation": null,
+            "buttons": [
+                {
+                    "label": "My GitHub",
+                    "url": "https://github.com/Mon4ik/"
+                },
+                {
+                    "label": "Using Python with PyPresence",
+                    "url": "https://pypi.org/project/pypresence/"
+                }
+            ]
+        },
+        "test_animation": {
+            "clientID": "902867627951661106",
+            "details": [
+                "O------------",
+                "-O-----------",
+                "--O----------",
+                "---O---------",
+                "----O--------",
+                "-----O-------",
+                "------O------",
+                "-------O-----",
+                "--------O----",
+                "---------O---",
+                "----------O--",
+                "-----------O-",
+                "------------O",
+                "-----------O-",
+                "----------O--",
+                "---------O---",
+                "--------O----",
+                "-------O-----",
+                "------O------",
+                "-----O-------",
+                "----O--------",
+                "---O---------",
+                "--O----------",
+                "-O-----------"
+            ],
+            "state": "Testing RPC feature",
+            "startTimestamp": "$now",
+            "endTimestamp": null,
+            "largeImage": {
+                "imgName": "img1",
+                "text": "Test large image"
+            },
+            "smallImage": {
+                "imgName": "img2",
+                "text": "Test small image"
+            },
+            "animation": {
+                "intervalSec": 0.5,
+                "pick": "next",
+                "looped": true
+            },
+            "buttons": [
+                {
+                    "label": "My GitHub",
+                    "url": "https://github.com/Mon4ik/"
+                },
+                {
+                    "label": "Using Python with PyPresence",
+                    "url": "https://pypi.org/project/pypresence/"
+                }
+            ]
+        }
+    }
+}
